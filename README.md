@@ -1,0 +1,2 @@
+# myGitForintegrayion
+myGit
