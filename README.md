@@ -1,2 +1,2 @@
-# myGitForintegrayion
+# Git-Integration
 myGit
